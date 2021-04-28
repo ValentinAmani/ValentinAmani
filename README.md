@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ValentinAmani.
-- 👀 I’m interested in le Codage.
-- 🌱 I’m currently learning le langage Python.
+- 👀 I’m interested in Code.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
